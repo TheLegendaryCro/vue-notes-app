@@ -2,6 +2,9 @@
 
 > A Notes App with Vue.js
 
+## Screenshot
+![screenshot of CRUD app](https://user-images.githubusercontent.com/40008667/61998779-e2dace80-b07a-11e9-9a32-f82ccb4bcef9.PNG)
+
 ## Build Setup
 
 ``` bash
